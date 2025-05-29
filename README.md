@@ -17,7 +17,7 @@ All our official software releases are hosted here. To find the download for a s
 
 Below is a list of software available for download.
 
-* **DRS | Stratagem Helper**
+* **[Download DRS | Stratagem Helper v1.2.6](https://github.com/DevRightStudios/DRS-Releases/releases/tag/DRS-Stratagem_Helper_v1.2.6)**
  
 ---
 
