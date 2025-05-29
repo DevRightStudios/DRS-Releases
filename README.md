@@ -6,7 +6,7 @@ Welcome to the official software release hub for DevRight Studios | DRS! This re
 
 All our official software releases are hosted here. To find the download for a specific application:
 
-1.  Navigate to the **[Releases](https://github.com/DevRightStudios/DRS-Releases)** section of this repository. You can usually find a "Releases" link on the right-hand side of this page.
+1.  Navigate to the **[Releases](https://github.com/DevRightStudios/DRS-Releases/releases)** section of this repository. You can usually find a "Releases" link on the right-hand side of this page.
 2.  Releases are tagged by product name and version (e.g., `ProductName-v1.0.0`).
 3.  Browse or search for the specific product and version you are looking for.
 4.  Each release will have downloadable assets, typically including an installer (`.exe` or other relevant package).
